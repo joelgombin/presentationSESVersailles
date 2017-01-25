@@ -16,6 +16,16 @@ output:
 <p></p><p></p><p>
 Joël Gombin (CURAPP-UPJV / CHERPA-IEP Aix)
 </p>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+
+```{r cc, out.width="200px", echo=FALSE}
+knitr::include_graphics("./img/by-sa.png")
+```
 
 
 
